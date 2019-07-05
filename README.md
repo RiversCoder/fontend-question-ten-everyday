@@ -3,5 +3,5 @@
 ---
 
 ## 2019年07年05日 星期五
-[ 前端知识拷问 001 ](/qustions/question_001.md )
+[ 前端知识拷问 001 ](/questions/question_001.md )
 
