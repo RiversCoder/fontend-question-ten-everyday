@@ -2,16 +2,20 @@
 ---
 今天的前端知识点有如下：
 
+* 对`Socket`编程的理解，及实现原理，`Socket`之间是怎么通讯的 ?
+* `web`应用从服务器主动推送`data`到客户端有哪些方式?
+* 什么是`https`，做什么用的呢？如何开启`https`？
+* 如何看待使用`node.js`搭建中间层？
+*  `web`微信支付怎么做？请描述流程？
 
 * 仓库地址：https://github.com/RiversCoder/fontend-question-ten-everyday
 
 > 1. 对`Socket`编程的理解，及实现原理，`Socket`之间是怎么通讯的 ?
 
 
-
 **（1）实现原理**
 
-![socket](/images/question_006_2.png)
+![socket](/images/question_006_3.png)
 
 实际上，`Socket` 是在应用层和传输层之间的一个抽象层，它把 `TCP/IP` 层复杂的操作抽象为几个简单的接口，供应用层调用实现进程在网络中的通信。
 
